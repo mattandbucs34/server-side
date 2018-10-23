@@ -4,4 +4,5 @@
 2\.   What explains Nodes' rise in popularity and use? What does "Isomorphic JavaScript programming" mean? Provide some real-world examples not listed in this checkpoint of companies using Node.js.<br/>
 >The rise in Node JS is because of the use of a single language as opposed to using 2, 3 or more languages to access and use a server for data. Isomorphic JavaScript is just that, the use of only JavaScript to build an application. Some other companies that use Node.JS are Walmart, Trello, Medium and Groupon.
 
-3\. Draw a diagram of a full-stack web application and its key components.
+3\. Draw a diagram of a full-stack web application and its key components.<br/>
+>See diagram from repository
